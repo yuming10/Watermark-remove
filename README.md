@@ -1,3 +1,3 @@
 # Watermark-remove
-Using binarization for removing
-a simple way to remove watermark
+Using binarization for removing.
+A simple way to remove watermark
